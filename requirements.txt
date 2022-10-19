@@ -1,3 +1,4 @@
 django
 docutils
+crispy-bootstrap5
 autopep8
